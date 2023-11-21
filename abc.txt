@@ -1,0 +1,4 @@
+Hello
+Hi
+Welcome to GIT Learning Class
+Welcome once
